@@ -1,0 +1,77 @@
+{
+    "products": [
+        {   
+            "id": 1,
+            "title": "Stylish Hublot Watch For Women (WJ748)",
+            "Website": "KDB Deals",
+            "price": 1599.00,
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR50_Uzxl54xixmnoqvT_2SJNfCEbfcQ1mntQ&s",
+            "shipping": "Free delivery",
+            "amount": 1
+        },
+        {
+            "id": 2,
+            "title": "Titan Men Stainless Steel Bracelet Style Straps Analogue Watch",
+            "Website": "Myntra",
+            "price": 11996.00,
+            "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQrau07DLBxpbkOIusccre2YI_VQFMqO3aFtXSFTNVN8WkcmfI8GXSSAGFXo_q_RgYsa8pxvTBk3ZtUTKuIk-IS5aZFXBR7d7pXHTHp2mYo7Q72kFren9SHcBk&usqp=CAE",
+            "shipping": "Free delivery",
+            "amount": 1
+        },
+        {
+            "id": 3,
+            "title": "Boat Lunar Connect With Enx Technology For Bt Calling & 1.28",
+            "Website": "Myntra",
+            "price": 1799.00,
+            "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRSizjxQ4GAbZZUhqN61TahgcVWEvhAaTdKIRIbctz5MpJkF7D26oWoJyNSCJgkRPC8x2ujfjoZW_T0bMOeLEkcgsrXc2wa7hBLafuvVPXKFuF4ohbJVImP2bM&usqp=CAE",
+            "shipping": "Free delivery",
+            "amount": 1
+        },
+        {
+            "id": 4,
+            "title": "DressBerry Women Mauve Analogue Watch",
+            "Website": "Myntra",
+            "price": 923.00,
+            "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSEQ4vM32C7kXo2uUcnlG3g_csGsZxTK805g_PFP4MWr7geodfce9dVfSBtSUB6yXKEaNmkZUFj30v6KI0s6ZeSc9Hf-6-zwWvXMReYqDweMly4u8gBX6gefQ&usqp=CAE",
+            "shipping": "Free delivery",
+            "amount": 1
+        },
+        {
+            "id": 5,
+            "title": "Spiky Unisex Kids Pink Printed Dial & Pink Straps Analogue Watch",
+            "Website": "Myntra",
+            "price": 497.00,
+            "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRpcGGLjv32OvmZpPco8C4ISp2qYuEfU7jH_JhS8qxrdYWjnP6baK6kry3aRpf7CLPPP31xxkgNBOidr8pfDwcWg6B2dDA-Lqofnxc1a8SLn2vsDRxGklYKXw&usqp=CAE",
+            "shipping": "Free delivery",
+            "amount": 1
+        },
+        {
+            "id": 6,
+            "title": "Sonata Poze Analog Watch - For Women",
+            "Website": "Sonatawatches.in",
+            "price": 1795.00,
+            "img": "https://www.sonatawatches.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw1b6e65e2/images/Sonata/Catalog/SP80080KM02WF_1.jpg?sw=600&sh=600",
+            "shipping": "Free delivery",
+            "amount": 1
+        },
+        {
+            "id": 7,
+            "title": "Titan 95197WM01 Raga Delight Analog Watch for Women",
+            "Website": "Titan.co.in",
+            "price": 8795.00,
+            "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRchkhYl-xsyFpQ2_GA8vBBNWOxtnE8halPrgGb_MfOqwDIUrpF_in5lIwwed2ZvsR8aBS2P0NltMEL7Q9tzDV-V0xztk4AjulqVgKQOaik&usqp=CAE",
+            "shipping": "Free delivery",
+            "amount": 1
+        },
+        {
+            "id": 8,
+            "title": "V2A Watch for Boys Age 7 and Above Analogue-Digital Shock Resistant",
+            "Website": "Amazon.in",
+            "price": 791.00,
+            "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSeMMbH00l-m5MNza8WINtKqDM3u0P_Naw-mxZi-vB2tret2HTdMwy_vFryIj2sROS-gBotgy7p8RbfdOLMwEQw9yrcPjTGtnvYo_lL2mk8SVYry54Ql-FOpA&usqp=CAE",
+            "shipping": "Free delivery",
+            "amount": 1
+        }
+    ]
+
+}    
