@@ -217,18 +217,18 @@ td {
   background-color: goldenrod;
 }
 
-.remove{
+.remove {
   color: black;
-  border-color:goldenrod;
+  border-color: goldenrod;
   background-color: gray;
 }
 
-.remove:hover{
+.remove:hover {
   color: white;
   background-color: rgba(218, 165, 32, 0.895);
 }
 
-.home-container1{
+.home-container1 {
   border: 1px solid rgba(128, 128, 128, 0.226);
   box-shadow: rgba(0, 0, 0, 0.037) 1.95px 1.95px 2.6px;
   display: flex;
@@ -240,4 +240,76 @@ td {
   width: 90vw;
   margin: 630px 30px;
   border-radius: 10px;
+}
+
+
+.contact-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: sans-serif;
+  font-size: 16px;
+}
+
+/* .left-container,
+.right-container {
+  border: 1px solid black;
+} */
+
+.left-container {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  height: 400px;
+  width: 400px;
+  padding: 20px;
+  font-family: sans-serif;
+  font-size: 16px;
+}
+
+.left-container h2 {
+  color: white;
+  font-weight: bold;
+}
+
+hr {
+  width: 2px;
+}
+
+.contact-btn {
+  height: 40px;
+  width: 100px;
+  cursor: pointer;
+  color: white;
+  background-color: rgba(13, 114, 117, 0.614);
+}
+
+.contact-btn:hover {
+  color: white;
+  background-color: black;
+}
+
+input {
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  width: 350px;
+
+}
+
+textarea {
+  width: 350px;
+  height: 350px;
+  padding: 15px;
+}
+
+.right-container {
+  display: flex;
+  height: 400px;
+  width: 400px;
+}
+
+.contact {
+  background: linear-gradient(rgba(0, 0, 0, 0.503), rgba(128, 128, 128, 0.711));
 }

@@ -8,6 +8,7 @@ import { SignUp } from './Singup';
 import Home1 from './Home1';
 import Products from './Pages/Products';
 import Cart from './Pages/Cart';
+import Contact from './Contact';
 
 function App() {
 
@@ -23,6 +24,7 @@ function App() {
               <Route path='/home' element={<Home1/>} />
               <Route path='/watches' element={<Products/>} />
               <Route path='/cart' element={<Cart/>} />
+              <Route path='/contactus' element={<Contact/>}/>
             </Route>
             <Route path='/login' element={<Login />} />
             <Route path='/signup' element={<SignUp />} />
